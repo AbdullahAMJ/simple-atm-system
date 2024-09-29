@@ -1,0 +1,22 @@
+{
+  "name": "amj_281_simple-atm-system",
+  "version": "1.1.1",
+  "description": "This is a cli based simple-atm-system.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah",
+  "license": "ISC",
+  "dependencies": {
+    "amj_281_cli-number-guessing": "^1.1.2",
+    "amj_281_simple-calculator": "^1.0.1",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.6"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
